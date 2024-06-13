@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a954959eb24467a4d9bd61da59f48a49
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - daySprite: {fileID: 21300000, guid: ce83b6dbb3662c141bda8e0b14db2e8e, type: 3}
+  - nightSprite: {fileID: 21300000, guid: 453d9e11770df3d4ebbc160bb007ff9b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
